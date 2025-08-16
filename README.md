@@ -1,6 +1,6 @@
 excaidraw: https://excalidraw.com/#json=4MaOt5d0wSl2h2fvrz0rA,b1P67PsUd-tSJVFsxWj2Lg
 
-![first-class-image](first-class.png)
+![first-class-image](First-Class/first-class.png)
 
 ## METHOD-1 CLONING
 
